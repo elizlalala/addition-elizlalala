@@ -1,0 +1,25 @@
+{
+  "name": "addition-elizlalala",
+  "version": "0.0.1",
+  "description": "foo bar",
+  "main": "addition.js",
+  "scripts": {
+    "test": "tap *.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elizlalala/addition-elizlalala.git"
+  },
+  "keywords": [
+    "addition",
+    "elizabeth",
+    "brown",
+    "elizlalala"
+  ],
+  "author": "Elizabeth Brown (@elizlalala)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elizlalala/addition-elizlalala/issues"
+  },
+  "homepage": "https://github.com/elizlalala/addition-elizlalala#readme"
+}
